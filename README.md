@@ -3,7 +3,26 @@
 A basic tool for visually understanding option pricing and how the greeks change based on input changes. 
 
 **NOTE:** This tool deals only with European styled options. It does not factor in dividends and other external factors. 
-The tool is for learning purposes only.  It does not guarantee any sort of accurate output.  
+The tool is for learning purposes only.  It does not guarantee any sort of accurate output.
+
+## Code
+
+This code has been developed using Typescript, React and Redux. Testing is handled by Jest. 
+
+## Install
+
+### Prerequisites
+
+* Node
+* NPM (or Yarn)
+
+### Install dependencies
+
+Clone this repository and install the required dependencies from NPM:
+
+`npm install`
+
+That's it. 
 
 ## Available Scripts
 
