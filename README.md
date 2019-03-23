@@ -1,8 +1,9 @@
 # Option Pricing Visualisation
 
-A tool for visually understanding option pricing and how the greeks change based on input changes.
+A basic tool for visually understanding option pricing and how the greeks change based on input changes. 
 
 **NOTE:** This tool deals only with European styled options. It does not factor in dividends and other external factors. 
+The tool is for learning purposes only.  It does not guarantee any sort of accurate output.  
 
 ## Available Scripts
 
@@ -29,5 +30,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
-See the section about [deployment](#deployment) for more information.
+
 
